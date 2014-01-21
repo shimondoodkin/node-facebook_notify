@@ -1,7 +1,8 @@
 {
   "name": "facebook_notify",
-  "version": "0.0.0",
-  "description": "sample program so send facebook message server alerts",
+  "version": "0.0.3",
+  "description": "send message to facebook from server",
+  "keywords": ["facebook", "pushover", "monitor", "xmpp"],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
