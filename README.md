@@ -8,5 +8,9 @@ it is done using node-xmpp-client module based on it's facebook sample
 
 you need a seperate facebook account for the message to popup in your smartphone
 
+installation:
+
+    npm install facebook_notify
+
 for a sample see test.js
 
