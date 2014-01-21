@@ -1,0 +1,14 @@
+{
+  "name": "facebook_notify",
+  "version": "0.0.0",
+  "description": "sample program so send facebook message server alerts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-xmpp-client": "~0.1.6"
+  },
+  "author": "Shimon Doodkin",
+  "license": "MIT"
+}
